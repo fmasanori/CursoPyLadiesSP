@@ -1,5 +1,5 @@
 
-**Curso de Análise de Dados Públicos PyLadies São Paulo**
+**Curso de Análise de Dados Públicos PyLadies**
 --------------------------------------------
 
 **Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Deputado, seus maiores fornecedores, análise das palavras chave e sumário dos discursos.
