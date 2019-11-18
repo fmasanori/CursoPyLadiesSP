@@ -2,10 +2,14 @@
 **Curso de Análise de Dados Públicos PyLadies**
 --------------------------------------------
 
-**Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Deputado, seus maiores fornecedores, análise das palavras chave e sumário dos discursos.
-Tweets sem autenticação.
-Análise da Fila do SUS.
-Geração de um Mapa de Calor dos Dados da Secretaria de Segurança Pública, relativos à roubos de veículos.**
+**Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Deputado, seus maiores fornecedores, análise das palavras chave e sumário dos discursos. Tweets sem autenticação. Análise da Fila do SUS. Geração de um Mapa de Calor dos Dados da Secretaria de Segurança Pública, relativos à roubos de veículos.**
+
+**sugerimos** a seguinte ordem:
+1. Analisando Tweets do Bolsonaro
+2. Usando a nova API da Câmara dos Deputados
+3. Análise da Fila do SUS do Estado de Santa Catarina
+4. Dados da Câmara via Pandas
+5. Mapa de Calor de Roubo de Veículos
 
 Cópia no Dropbox de todos os arquivos: http://bit.ly/CursoPyLadiesSP
 
