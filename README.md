@@ -11,11 +11,8 @@ Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Dep
 6. Mapa de Calor de Roubo de Veículos
 
 Cópia no Dropbox de todos os arquivos: http://bit.ly/CursoPyLadiesSP
-
 Existem dois arquivos grandes demais para o github, favor baixar em separado: 
-
 http://bit.ly/SUSCursoPyLadiesSP
-
 http://bit.ly/INEPCursoPyLadiesSP
 
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
