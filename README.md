@@ -14,6 +14,6 @@ Cópia no Dropbox de todos os arquivos: http://bit.ly/CursoPyLadiesSP
 
 Existem dois arquivos grandes demais para o github, favor baixar em separado: 
 http://bit.ly/SUSCursoPyLadiesSP
-http://bit.ly/INEPCursoPyLadiesSP
+http://bit.ly/INEP2018Escolas
 
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
