@@ -8,8 +8,9 @@
 1. Analisando Tweets do Bolsonaro
 2. Usando a nova API da Câmara dos Deputados
 3. Análise da Fila do SUS do Estado de Santa Catarina
-4. Dados da Câmara via Pandas
-5. Mapa de Calor de Roubo de Veículos
+4. Microdados do INEP sem medo
+5. Dados da Câmara via Pandas
+6. Mapa de Calor de Roubo de Veículos
 
 Cópia no Dropbox de todos os arquivos: http://bit.ly/CursoPyLadiesSP
 
