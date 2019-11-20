@@ -16,4 +16,5 @@ Existem dois arquivos grandes demais para o github, favor baixar em separado:
 http://bit.ly/SUSCursoPyLadiesSP 
 http://bit.ly/INEP2018Escolas 
 http://bit.ly/ENADE2017CursoPyLadiesSP 
+
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
