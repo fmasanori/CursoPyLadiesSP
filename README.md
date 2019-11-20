@@ -12,7 +12,7 @@ Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Dep
 
 Cópia no Dropbox de todos os arquivos: http://bit.ly/CursoPyLadiesSP
 
-Existem dois arquivos grandes demais para o github, favor baixar em separado: 
+Existem arquivos grandes demais para o github, favor baixar em separado: 
 http://bit.ly/SUSCursoPyLadiesSP 
 http://bit.ly/INEP2018Escolas 
 http://bit.ly/ENADE2017CursoPyLadiesSP 
