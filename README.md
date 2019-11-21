@@ -18,3 +18,5 @@ http://bit.ly/INEP2018Escolas
 http://bit.ly/ENADE2017CursoPyLadiesSP 
 
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
+
+***Evite usar Anaconda, deu muito problema nos vários workshops que dei***
