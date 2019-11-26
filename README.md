@@ -19,17 +19,10 @@ http://bit.ly/ENADE2017CursoPyLadiesSP
 
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
 
-Python 3.6 ou superior (sugerimos *não* usar Anaconda)
-ATENÇÃO: na primeira tela de instalação do Python, habilite a opção PATH, note que não é o padrão!
-Download http://bit.ly/CursoPyLadiesSP
-Descompactar em c:\usuários\seu_user (observe que será criado um subdiretório CursoPyLadiesSP, mova todo o conteúdo)
+Python 3.6 ou superior (sugerimos *não* usar Anaconda). ATENÇÃO: na primeira tela de instalação do Python, habilite a opção PATH, note que não é o padrão! Download http://bit.ly/CursoPyLadiesSP Descompactar em c:\usuários\seu_user (observe que será criado um subdiretório CursoPyLadiesSP, mova todo o conteúdo)
 
 iniciar > CMD > enter
-
 pip install -r requirements.txt
-
 jupyter notebook
-
 Veja os notebooks no diretório que acabou de baixar, tem a extensão ipynb
-
 Se tiver dúvidas, favor entrar em contato about.me/fmasanori
