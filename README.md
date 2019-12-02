@@ -22,7 +22,8 @@ http://bit.ly/ENADE2017CursoPyLadiesSP
 
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
 
-Python 3.6 ou superior (sugerimos *não* usar Anaconda). 
+Python 3.6 ou superior (sugerimos *não* usar Anaconda) 
+https://python.org.br/instalacao-windows/ https://python.org.br/instalacao-linux/ https://python.org.br/instalacao-mac/
 
 ATENÇÃO: na primeira tela de instalação do Python, habilite a opção PATH, note que não é o padrão! 
 
