@@ -3,7 +3,7 @@
 --------------------------------------------
 
 Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Deputado, seus maiores fornecedores, análise das palavras chave e sumário dos discursos. Tweets sem autenticação. Análise da Fila do SUS. Microdados do INEP sem medo. Geração de um Mapa de Calor dos Dados da Secretaria de Segurança Pública, relativos à roubos de veículos. **Sugerimos** a seguinte ordem:
-1. Analisando Tuites do Bolsonaro
+1. Analisando Tuites do Bolsonaro (não está funcionando, mudou API)
 2. Usando a nova API da Câmara dos Deputados
 3. Análise da Fila do SUS do Estado de Santa Catarina
 4. Microdados do INEP sem medo
@@ -20,9 +20,13 @@ http://bit.ly/INEP2018Escolas
  
 http://bit.ly/ENADE2017CursoPyLadiesSP
 
+https://covid.saude.gov.br/ (baixar CSV)
+
+https://opendatasus.saude.gov.br/dataset/bd-srag-2020 (CSV)
+
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
 
-Python 3.6 ou superior (sugerimos *não* usar Anaconda) 
+Python 3.6 3.7 ou 3.8 (sugerimos *não* usar Anaconda nem 3.9) 
 https://python.org.br/instalacao-windows/ https://python.org.br/instalacao-linux/ https://python.org.br/instalacao-mac/
 
 ATENÇÃO: na primeira tela de instalação do Python, habilite a opção PATH, note que não é o padrão! 
