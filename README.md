@@ -6,9 +6,10 @@ Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Dep
 1. Analisando Tuites do Bolsonaro (não está funcionando, mudou API)
 2. Usando a nova API da Câmara dos Deputados
 3. Análise da Fila do SUS do Estado de Santa Catarina
-4. Microdados do INEP sem medo
-5. Dados da Câmara via Pandas
-6. Mapa de Calor de Roubo de Veículos
+4. Evolução Covid e SRAG (Síndrome Respiratória Aguda Grave)
+5. Microdados do INEP sem medo
+6. Dados da Câmara via Pandas
+7. Mapa de Calor de Roubo de Veículos
 
 Cópia no Dropbox de todos os arquivos: http://bit.ly/CursoPyLadiesSP
 
@@ -26,7 +27,7 @@ https://opendatasus.saude.gov.br/dataset/bd-srag-2020 (CSV)
 
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
 
-Python 3.6 3.7 ou 3.8 (sugerimos *não* usar Anaconda nem 3.9) 
+Python 3.6 3.7 ou 3.8 (sugerimos *não* usar Anaconda ou Python 3.9) 
 https://python.org.br/instalacao-windows/ https://python.org.br/instalacao-linux/ https://python.org.br/instalacao-mac/
 
 ATENÇÃO: na primeira tela de instalação do Python, habilite a opção PATH, note que não é o padrão! 
