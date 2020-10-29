@@ -2,7 +2,7 @@
 **Curso de Análise de Dados Públicos PyLadies**
 --------------------------------------------
 
-Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Deputado, seus maiores fornecedores, análise das palavras chave e sumário dos discursos. Tweets sem autenticação. Análise da Fila do SUS. Microdados do INEP sem medo. Geração de um Mapa de Calor dos Dados da Secretaria de Segurança Pública, relativos à roubos de veículos. **Sugerimos** a seguinte ordem:
+Acesso da nova API da Câmara: quais os gastos com a quota parlamentar de um Deputado, seus maiores fornecedores, análise das palavras chave e sumário dos discursos. Evolução Covid e SRAG 2020. Análise da Fila do SUS. Microdados do INEP sem medo. Geração de um Mapa de Calor dos Dados da Secretaria de Segurança Pública, relativos à roubos de veículos. **Sugerimos** a seguinte ordem:
 1. Analisando Tuites do Bolsonaro (não está funcionando, mudou API)
 2. Usando a nova API da Câmara dos Deputados
 3. Análise da Fila do SUS do Estado de Santa Catarina
@@ -44,4 +44,4 @@ jupyter notebook
 
 Veja os notebooks no diretório que acabou de baixar, tem a extensão ipynb
 
-Se tiver dúvidas, favor entrar em contato about.me/fmasanori
+Se tiver dúvidas, favor entrar em contato https://fmasanori.com/
