@@ -21,7 +21,7 @@ http://bit.ly/INEP2018Escolas
  
 http://bit.ly/ENADE2017CursoPyLadiesSP
 
-https://covid.saude.gov.br/ (baixar CSV)
+https://bit.ly/covid04nov (baixar CSV)
 
 https://opendatasus.saude.gov.br/dataset/bd-srag-2020 (CSV)
 
