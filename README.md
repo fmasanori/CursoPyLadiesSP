@@ -21,9 +21,9 @@ http://bit.ly/INEP2018Escolas
  
 http://bit.ly/ENADE2017CursoPyLadiesSP
 
-https://bit.ly/covid04nov (baixar CSV)
+https://covid.saude.gov.br/ (baixar CSV)
 
-https://opendatasus.saude.gov.br/dataset/bd-srag-2020 (CSV)
+https://opendatasus.saude.gov.br/dataset/bd-srag-2020 (baixar CSV)
 
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
 
