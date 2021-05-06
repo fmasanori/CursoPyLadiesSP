@@ -45,4 +45,4 @@ jupyter notebook
 
 Veja os notebooks no diretório que acabou de baixar, tem a extensão ipynb
 
-Se tiver dúvidas, favor entrar em contato https://fmasanori.com/
+Se tiver dúvidas, favor entrar em contato https://linktr.ee/fmasanori
