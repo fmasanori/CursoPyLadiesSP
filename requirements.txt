@@ -10,6 +10,6 @@ numpy
 ipython
 jupyter
 xlrd
-twitter-scraper
+tweepy
 markovify
 folium
