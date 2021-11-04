@@ -15,11 +15,11 @@ Cópia no Dropbox de todos os arquivos: http://bit.ly/CursoPyLadiesSP
 
 Existem arquivos grandes demais para o github, favor baixar em separado: 
 
-http://bit.ly/SUSCursoPyLadiesSP
+FILA SUS Santa Catarina: https://www.dropbox.com/s/3pj7pydrsgmcg8a/fila-publica-2017-11-30.csv?dl=0
 
-http://bit.ly/INEP2018Escolas
- 
-http://bit.ly/ENADE2017CursoPyLadiesSP
+Escolas Censo 2018: https://www.dropbox.com/s/lq1rj7fdh6sezne/ESCOLAS.CSV?dl=0
+
+Enade 2017: https://www.dropbox.com/s/xwvbu8et8oer3gu/MICRODADOS_ENADE_2017.txt?dl=0
 
 https://covid.saude.gov.br/ (baixar CSV)
 
