@@ -23,7 +23,7 @@ Enade 2017: https://www.dropbox.com/s/xwvbu8et8oer3gu/MICRODADOS_ENADE_2017.txt?
 
 https://covid.saude.gov.br/ (baixar CSV)
 
-https://opendatasus.saude.gov.br/dataset/bd-srag-2020 (baixar CSV)
+https://opendatasus.saude.gov.br/dataset/srag-2021-e-2022 (baixar CSV)
 
 Para carregar as dependências todas veja http://bit.ly/pybrpandas ou pip install -r requirements.txt
 
